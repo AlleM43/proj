@@ -10,7 +10,7 @@ public class feebles {
 	
 	
 	String out="";{
-	String timesstr = JOptionPane.showInputDialog("Önskat nummer");
+	String timesstr = JOptionPane.showInputDialog("Wanted number");
 	int times = Integer.parseInt(timesstr);
 	
 		while ( times >1)
