@@ -3,9 +3,9 @@ import javax.swing.*;
 public class feebles {
 
 	public static void main(String[] args) {		
-	int a=1;
-	int b=1;
-	int c=0;
+	long a=1;
+	long b=1;
+	long c=0;
 	
 	
 	
