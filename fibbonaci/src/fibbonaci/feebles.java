@@ -23,8 +23,7 @@ public class feebles {
 			}
 			out="" + b;
 			System.out.println(out);
-			JOptionPane.showMessageDialog(null,out);
-					
+			JOptionPane.showMessageDialog(null,out);		
 		}
 	}	
 	}
